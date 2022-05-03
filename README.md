@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Django development using Docker as host - Part 5: Django development](https://dev.to/anujdev/django-development-using-docker-as-host-part-5-django-development-27bj)
+- [Django development using Docker as host - Part 4: docker-compose](https://dev.to/anujdev/django-development-using-docker-as-host-part-4-docker-compose-2313)
+- [Django development using Docker as host - Part 3: Create Django project](https://dev.to/anujdev/django-development-using-docker-as-host-part-3-create-django-project-15b1)
+- [Django development using Docker as host - Part 2: Create scripts](https://dev.to/anujdev/django-development-using-docker-as-host-part-2-create-scripts-3l3k)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
